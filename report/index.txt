@@ -1,0 +1,13 @@
+Capa
+Indice
+Introdução e contextualização
+Dataset
+	- Conteudo
+	- Justificação
+Desenvolvimento
+	- CNN 1
+		- Resultados
+	- CNN 2
+		- Resultados
+Conclusões
+Bibliografica
